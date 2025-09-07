@@ -50,8 +50,6 @@
 
 ## 🌟 Featured Projects  
 
-- 🚗 **Smart Automated Parking System (AI + IoT)** – Hackathon Project  
-- 🌱 **Plant Disease Detection using Image Processing** – Smart India Hackathon  
 - 🔐 **Data Encryption & Hiding (AES + LSB Steganography)** – Python & Streamlit  
 - 🍴 **Restaurant Management System** – Java OOPs Project  
 - 🚀 **AI Study Assistant** – React + Spring Boot + OpenAI + PostgreSQL  

@@ -22,7 +22,7 @@
 public class VinothKumar {
 
     String name        = "Vinoth Kumar D";
-    String degree      = "B.Tech @ Hindusthan Institute of Technology";
+    String degree      = "B.E @ Hindusthan Institute of Technology";
     String batch       = "2026";
     String location    = "Tamil Nadu, India 🇮🇳";
 
@@ -43,7 +43,7 @@ public class VinothKumar {
 
 | 🎖️ Achievement | 📌 Details |
 |---|---|
-| 🥇 Paper Presentation Winner | SAMHITA'24 |
+| 🥇 Paper Presentation  | SAMHITA'24 |
 | 💡 Hackathon Participant | Smart India Hackathon (SIH) |
 | 🤖 AI Project Builder | Study Assistant · Disease Detection · Steganography |
 | 📚 Consistent Learner | Java · DSA · Spring Boot · React |
